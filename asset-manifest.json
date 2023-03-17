@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nivo-gh-test/static/js/main.9414eecf.js",
-    "index.html": "/nivo-gh-test/index.html",
-    "main.9414eecf.js.map": "/nivo-gh-test/static/js/main.9414eecf.js.map"
+    "main.js": "/nivo-female-marimekko/static/js/main.3c92ef18.js",
+    "index.html": "/nivo-female-marimekko/index.html",
+    "main.3c92ef18.js.map": "/nivo-female-marimekko/static/js/main.3c92ef18.js.map"
   },
   "entrypoints": [
-    "static/js/main.9414eecf.js"
+    "static/js/main.3c92ef18.js"
   ]
 }
